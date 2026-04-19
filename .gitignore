@@ -1,0 +1,5 @@
+# macOS system file
+.DS_Store
+
+# JetBrains IDE project folder
+.idea/
