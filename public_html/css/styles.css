@@ -1,0 +1,107 @@
+body {
+    margin: 0 auto;
+    font-family: Arial, serif;
+    font-size: 1rem;
+    color: #000;
+}
+
+.logo {
+    height: 60px;
+    width: auto;
+}
+
+.logo-peq {
+    height: 30px;
+    width: auto;
+}
+
+.navbar .nav-link {
+    color: #212121;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+    color: #005fcc;
+}
+
+a:focus, button:focus, .nav-link:focus {
+    outline: 3px solid #0056b3 !important;
+    outline-offset: 2px;
+    box-shadow: none !important;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+.carousel-caption h5,
+.carousel-caption p {
+    color: #ffffff;
+}
+
+
+#mainContent {
+    padding-top: 2rem;
+}
+
+.img-main {
+    width: 50%;
+    height: auto;
+    border-radius: 1%;
+    margin-bottom: 1rem;
+}
+
+.img-blog {
+    width: 15%;
+    height: auto;
+    border-radius: 5%;
+    margin-bottom: 1rem;
+}
+
+.img-blog-big {
+    width: 35%;
+    height: auto;
+    border-radius: 5%;
+    margin-bottom: 1rem;
+}
+
+.img-rounded {
+    width: 100%;
+    height: auto;
+    border-radius: 1%;
+}
+
+.img-servicios {
+    width: 20%;
+    height: auto;
+}
+
+.titulo-servicios {
+    font-size: 1.5rem;
+}
+
+.titulo-blog {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+#cookie-banner .btn-warning {
+    background-color: #f39200;
+    border-color: #f39200;
+    color: #fff;
+}
+
+#cookie-banner .btn-warning:hover {
+    background-color: #d88200;
+    border-color: #d88200;
+}
+
+#cookie-banner .text-primary {
+    color: #1a3a5a !important;
+}
+
+.h2-cookie{
+    font-size: 1.5rem;
+}
